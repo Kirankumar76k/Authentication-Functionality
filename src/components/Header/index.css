@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.text {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+.link-cls {
+  margin-right: 10px;
+}
